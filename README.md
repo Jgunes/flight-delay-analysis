@@ -13,7 +13,5 @@ Python automation project for Excel flight delay analysis and PDF reporting
 - Matplotlib
 - FPDF
 
-## Output Files
-- flight_delay_report.pdf
-- result.xlsx
-- grafik.jpg
+## Author
+JG Automation & Data
