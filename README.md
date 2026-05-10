@@ -15,3 +15,6 @@ Python automation project for Excel flight delay analysis and PDF reporting
 
 ## Author
 JG Automation & Data
+
+## Preview
+![Flight Chart](grafik.jpg)
